@@ -1,6 +1,6 @@
 # Heroku build pack for 7zip
 
-This build pack install 7zip in heroku vendors executables and add it to the path.
+This build pack install 7zip in heroku vendors executables and add it to the system path.
 
 ## Version
 
